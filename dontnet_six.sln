@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dontnet_six", "dontnet_six.csproj", "{FA9CFF55-28EF-4919-86C1-F742FD751EC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA9CFF55-28EF-4919-86C1-F742FD751EC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA9CFF55-28EF-4919-86C1-F742FD751EC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA9CFF55-28EF-4919-86C1-F742FD751EC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA9CFF55-28EF-4919-86C1-F742FD751EC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBD84EAF-E1DC-4A78-ADB1-A73E90420F58}
+	EndGlobalSection
+EndGlobal
